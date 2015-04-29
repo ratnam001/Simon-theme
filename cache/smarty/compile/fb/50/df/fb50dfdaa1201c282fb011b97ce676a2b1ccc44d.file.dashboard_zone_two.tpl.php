@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-04-29 14:30:02
+<?php /* Smarty version Smarty-3.1.19, created on 2015-04-29 20:28:29
          compiled from "/home1/lamppp/htdocs/Simon-theme/modules/dashproducts/views/templates/hook/dashboard_zone_two.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:7560497455407a6a8b6829-30229135%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'fb50dfdaa1201c282fb011b97ce676a2b1ccc44d' => 
     array (
       0 => '/home1/lamppp/htdocs/Simon-theme/modules/dashproducts/views/templates/hook/dashboard_zone_two.tpl',
-      1 => 1425623960,
+      1 => 1430295507,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_55407a6a906011_11950340',
   'variables' => 
   array (
     'allow_push' => 0,
@@ -26,8 +28,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'DASHPRODUCT_NBR_SHOW_TOP_SEARCH' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55407a6a906011_11950340',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_55407a6a906011_11950340')) {function content_55407a6a906011_11950340($_smarty_tpl) {?>
 
@@ -36,10 +36,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<i class="icon-bar-chart"></i> <?php echo smartyTranslate(array('s'=>'Products and Sales','mod'=>'dashproducts'),$_smarty_tpl);?>
 
 		<span class="panel-heading-action">
-			<a class="list-toolbar-btn" href="#" onclick="toggleDashConfig('dashproducts'); return false;" title="configure">
+			<a class="list-toolbar-btn" href="#" onclick="toggleDashConfig('dashproducts'); return false;" title="<?php echo smartyTranslate(array('s'=>'Configure','mod'=>'dashproducts'),$_smarty_tpl);?>
+">
 				<i class="process-icon-configure"></i>
 			</a>
-			<a class="list-toolbar-btn" href="#"  onclick="refreshDashboard('dashproducts'); return false;"  title="refresh">
+			<a class="list-toolbar-btn" href="#"  onclick="refreshDashboard('dashproducts'); return false;"  title="<?php echo smartyTranslate(array('s'=>'Refresh','mod'=>'dashproducts'),$_smarty_tpl);?>
+">
 				<i class="process-icon-refresh"></i>
 			</a>
 		</span>
@@ -151,4 +153,5 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		</div>
 
 	</section>
-</section><?php }} ?>
+</section>
+<?php }} ?>

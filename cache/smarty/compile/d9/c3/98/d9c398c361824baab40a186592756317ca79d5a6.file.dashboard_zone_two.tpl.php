@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-04-29 14:30:02
+<?php /* Smarty version Smarty-3.1.19, created on 2015-04-29 20:28:28
          compiled from "/home1/lamppp/htdocs/Simon-theme/modules/dashtrends/views/templates/hook/dashboard_zone_two.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:135340937855407a6a76bb39-79453702%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd9c398c361824baab40a186592756317ca79d5a6' => 
     array (
       0 => '/home1/lamppp/htdocs/Simon-theme/modules/dashtrends/views/templates/hook/dashboard_zone_two.tpl',
-      1 => 1425623960,
+      1 => 1430295508,
       2 => 'file',
     ),
   ),
@@ -15,16 +15,26 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_55407a6a7ca695_02495912',
   'variables' => 
   array (
+    'currency' => 0,
     'allow_push' => 0,
     'link' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55407a6a7ca695_02495912',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_55407a6a7ca695_02495912')) {function content_55407a6a7ca695_02495912($_smarty_tpl) {?>
+<script>
+	var currency_format = <?php echo intval($_smarty_tpl->tpl_vars['currency']->value->format);?>
+;
+	var currency_sign = '<?php echo addcslashes($_smarty_tpl->tpl_vars['currency']->value->sign,'\'');?>
+';
+	var currency_blank = <?php echo intval($_smarty_tpl->tpl_vars['currency']->value->blank);?>
+;
+	var priceDisplayPrecision = 0;
+</script>
 <div class="clearfix"></div>
 <section id="dashtrends" class="panel widget<?php if ($_smarty_tpl->tpl_vars['allow_push']->value) {?> allow_push<?php }?>">
 	<header class="panel-heading">

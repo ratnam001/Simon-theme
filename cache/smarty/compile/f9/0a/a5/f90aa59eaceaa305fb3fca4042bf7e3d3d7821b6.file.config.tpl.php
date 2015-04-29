@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-04-29 14:30:02
+<?php /* Smarty version Smarty-3.1.19, created on 2015-04-29 20:28:28
          compiled from "/home1/lamppp/htdocs/Simon-theme/modules/dashgoals/views/templates/hook/config.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:49465737455407a6a81d983-45599614%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'f90aa59eaceaa305fb3fca4042bf7e3d3d7821b6' => 
     array (
       0 => '/home1/lamppp/htdocs/Simon-theme/modules/dashgoals/views/templates/hook/config.tpl',
-      1 => 1425623960,
+      1 => 1430295505,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_55407a6a866178_86363605',
   'variables' => 
   array (
     'link' => 0,
@@ -24,8 +26,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'currency' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55407a6a866178_86363605',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_55407a6a866178_86363605')) {function content_55407a6a866178_86363605($_smarty_tpl) {?>
 <section id="dashgoals_config" class="dash_config hide">
