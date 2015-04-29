@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Tue, 28 Apr 2015 14:40:15 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>A beginner’s guide to designing lead magnets</title>
+		<link>https://www.prestashop.com/blog/en/beginners-guide-designing-lead-magnets/</link>
+		<comments>https://www.prestashop.com/blog/en/beginners-guide-designing-lead-magnets/#comments</comments>
+		<pubDate>Tue, 28 Apr 2015 14:40:15 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19924</guid>
+		<description><![CDATA[<p>It takes time to build trust, instil confidence and build a relationship with your customers. Let’s face it: most of them won’t buy anything on their first visit. Customers are either browsing, doing market research and comparative analysis or not entirely sure your offer is what they need. It’s why you’ll need something to engage [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/beginners-guide-designing-lead-magnets/">A beginner’s guide to designing lead magnets</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>It takes time to build trust, instil confidence and build a relationship with your customers. Let’s face it: most of them won’t buy anything on their first visit. Customers are either browsing, doing market research and comparative analysis or not entirely sure your offer is what they need. It’s why you’ll need something to engage your customers with something we call a “lead magnet.”</p>
+<p>Today <a href="https://psaddons.wordpress.com/" target="_blank">technical blogger</a> and ecommerce consultant, <a href="https://twitter.com/AmeliaJohns89" target="_blank">Amelia Johns</a> shares her beginner’s guide to designing lead magnets. Read on to learn more. <span id="more-19924"></span></p>
+<h4><span style="color: #eb4245"><strong>What is a lead magnet?</strong></span></h4>
+<p>A lead magnet is the (free) offer you make on your website in exchange for visitors’ email addresses. Since we all hesitate to provide information on the internet, you must gain your customers trust by offering them something in return.</p>
+<p>The goal of a lead magnet is to maximize the number of targeted leads you receive in exchange for an offer and can be considered the first step in your customer value optimization process.</p>
+<h4><span style="color: #eb4245"><strong>Why Use Lead Magnets?</strong></span></h4>
+<p>Lead magnets are sales catalysts. Driving traffic to your website is not enough to have a positive impact on your business. In order for those visitors to provide any value to your company, they need to become subscribers, leads or customers through your website. Lead magnets capitalize on specific incentives offered on your lead generation or ‘landing’ page to convert visitors into customers.</p>
+<p>“Potential” becomes “profitable” as your customer base expands rapidly and extensively. When you offer your users something that makes them super-excited, you get the job done easily&#8211;the trick is to combine usefulness with interest.</p>
+<h4><span style="color: #eb4245"><strong>Examples of great Lead Magnets:</strong></span></h4>
+<p><img class="alignleft size-large wp-image-19963" alt="lead-magnets-1" src="http://www.prestashop.com/blog/en/files/2015/04/lead-magnets-1-1024x516.png" width="700" height="352" /><br />
+Moz offers a free 30-day trial to get more daily signups.</p>
+<p><img class="alignleft size-full wp-image-19964" alt="lead-magnets-2" src="http://www.prestashop.com/blog/en/files/2015/04/lead-magnets-2.png" width="895" height="355" /><br />
+Robbie Richards uses a beautiful call to action, ‘Let’s Do This!’, to encourage visitors to sign up for his newsletter offering advice on how to increase website traffic.</p>
+<p><img class="alignleft size-large wp-image-19965" alt="lead-magnets-3" src="http://www.prestashop.com/blog/en/files/2015/04/lead-magnets-3-1024x511.png" width="700" height="349" /><br />
+Another great example from Robbie, offering ebook downloads as a lead magnet.</p>
+<h4><span style="color: #eb4245"><strong>The Math behind Lead Magnets</strong></span></h4>
+<p>A strong Lead Magnet will boost your revenue generation stream by minimizing missed opportunities. The following table provides a quick overview of the figures that prove the necessity of having a good magnet in place.</p>
+<p><img class="alignleft size-full wp-image-19966" alt="lead-magnets-4-chart" src="http://www.prestashop.com/blog/en/files/2015/04/lead-magnets-4-chart.png" width="618" height="258" /></p>
+<h4><span style="color: #eb4245"><strong>Different Kinds of Lead Magnets</strong></span></h4>
+<p>The kind of lead magnets you offer will vary depending on if you’re providing a service or selling physical products. While the form may differ, in both cases the more valuable your lead magnet is to your ideal customer, the more likely they will be to use it. There are many different lead magnets to choose from, so avoid copy-pasting. Identify what you want to achieve and choose your lead magnet accordingly. Here are some examples of popular lead magnets:</p>
+<ol>
+<ul>
+<li><strong>Offer free software downloads or a trial version.</strong>Anyone who wants to see the product in action enters their email address. Then they are immediately taken through an interactive demo of how the tool works.</li>
+<li><strong>Checklists and handouts. </strong>They are generally very short (one page or so) and cut straight to an ultra-specific point and they can be delivered as checklists, mind maps or templates. They help customers work through a complicated project without missing any key pieces.</li>
+<li><strong>Quiz or Survey. </strong>This can be a very engaging way to generate new leads by sending the quiz results via email. Quiz building tools like Interact make it easy to generate fun, entertaining quizzes.</li>
+<li><strong>Video trainings or webinars. </strong>These can be excellent tools if you feel they’re aligned with your business offering and you have development resources. Video can be a very effective way to deliver a lead magnet; simple screen cast tools like Camtasia or Screenflow make delivery easy.</li>
+<li><strong>Free Shipping and Bonus Offers. </strong>Provide customers with one or more offers to join your email newsletter (or any other subscription list) with the promise of coupons and special deals like seasonal discounts or members’ only sales.</li>
+<li><strong>Toolkits </strong>are one of those lead magnet examples that has worked to get massive results with seemingly little effort. It is a super simple landing page offering visitors a free PDF report with a super simple list of tools. That is it! Visitors arrive on the page and read the sales copy with the offer. Then they decide to enter their email to get the report delivered to their inbox, or not.</li>
+<li><strong>Free Consultation or Buying Guides or Sales materials. </strong>The most desired piece of information for the market is pricing and descriptions of products or services. Often in their look out for the best deal out there, users will be willing to provide their email address for securing such treasured information for existing deals, and for the future.</li>
+<li><strong>Free eBooks or Reports</strong>are another popular type of lead magnets. You offer value in news, best practices, or advice, and visitors must fill out the form to opt-in and receive the free PDF via email.</li>
+</ul>
+</ol>
+<h4><span style="color: #eb4245"><strong>Building an Attractive Lead Magnet</strong></span></h4>
+<p>Lead Magnets do not have to be lengthy. Or complex. Or time-intensive to create. The key is to build a tool that solves a specific problem with a specific solution for a specific segment of your market. In order for your lead magnet to be effective, it has to be consumed by the consumer. The perfect Lead Magnet will offer tremendous value within 5 minutes of the opt-in. Just ask yourself the following questions:</p>
+<ol>
+<ul>
+<li>What offers will I make to new leads?</li>
+<li>How well do these offers convert?</li>
+<li>How much is a visit to my lead magnet landing page worth?</li>
+<li>How much is a new lead worth?</li>
+<li>How much is a new sale worth?</li>
+</ul>
+</ol>
+<p>With the right Lead Magnet in place and systematically defined support processes behind it, your business will become a lead and sales generating machine.</p>
+<h4><span style="color: #eb4245"><strong>Takeaways </strong></span></h4>
+<p>Here are a few points to keep in mind when you get ready to develop lead magnets:</p>
+<ol>
+<ul>
+<li>Understand what your ‘ideal’ prospect really wants</li>
+<li>A good lead magnet creates ‘aha’ moments</li>
+<li>Don’t go with the flow. Be contrarian. Dare to be disruptive.</li>
+<li>Specificity: Offer something that clearly leads to your product or solution</li>
+<li>Offer something that helps makes prospects a buying decision</li>
+<li>The perceived value of the magnet should surpass the reluctance of a mildly interested browser in giving up their personal information</li>
+<li>Emphasize on the ‘shareability’ of the magnet</li>
+<li>Be simplistic. Do not let superfluous ingenuity compromise the value creation of the magnet</li>
+</ul>
+</ol>
+<p>___________</p>
+<p>Which lead magnet are you looking forward to trying out? Tell us in the comments below. Not selling online yet? Launch your online store with <a href="http://www.prestashop.com" target="_blank">PrestaShop Cloud </a>– our still free and hosted version!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/beginners-guide-designing-lead-magnets/">A beginner’s guide to designing lead magnets</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/beginners-guide-designing-lead-magnets/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 tips for a successful sales campaign</title>
+		<link>https://www.prestashop.com/blog/en/5-tips-successful-sales-campaign/</link>
+		<comments>https://www.prestashop.com/blog/en/5-tips-successful-sales-campaign/#comments</comments>
+		<pubDate>Mon, 27 Apr 2015 12:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19881</guid>
+		<description><![CDATA[<p>While no business can or should depend on sales promotions alone for communicating and connecting with customers, they are an important part of building customer relationships. When used as part of an integrated marketing strategy, sales promotions can help to increase traffic, reinforce visibility and drive sales. The five tips presented in today’s post should [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-tips-successful-sales-campaign/">5 tips for a successful sales campaign</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>While no business can or should depend on sales promotions alone for communicating and connecting with customers, they are an important part of building customer relationships. When used as part of an <a href="http://smallbusiness.chron.com/importance-integrated-marketing-communications-73248.html" target="_blank">integrated marketing strategy</a>, sales promotions can help to increase traffic, reinforce visibility and drive sales.</p>
+<p>The five tips presented in today’s post should give you food for thought for building your next sales campaign.<br />
+<span id="more-19881"></span></p>
+<h2 style="color: #fd5a0f">1/ Understand your audience</h2>
+<p>Before you start scheduling an email campaign or drafting popups for your homepage, take some to think about who you’re targeting and what you want to achieve. You’ve probably got a diverse customer base, so if you haven’t already, identify different segments and <a href="https://www.prestashop.com/blog/en/how-to-develop-buyer-personas-for-b2c-ecommerce-marketing/">create appropriate customer personas</a>.</p>
+<p>Ask yourself: what are my customers’ needs? What do they expect from my product?</p>
+<p>The answers are likely to be different for each segment. Keep them in mind as you create tailored content that resonates with your target audience.</p>
+<p>Also, think about what results you want to achieve.</p>
+<ul style="padding-left: 30px">
+<li>Are you purely after an increase in sales and traffic?</li>
+<li>Are you just trying to clear slow-moving inventory?</li>
+<li>Or are you also interested in strengthening your lead base? (If so, you’ll need to integrate a method of collecting emails and other customer information into your campaign.)</li>
+</ul>
+<h2 style="color: #fd5a0f">2/ Choose your moment</h2>
+<p>Sales campaigns often revolve around a major holiday or event, such as the back-to-school season or Christmas. You can also set up flash sales or special offers to reward customers on a more personalized basis. If you’re not sure where to start, you’ll want to check out what your competitors are doing. Then ask:</p>
+<ul style="padding-left: 30px">
+<li>Will you be overlapping a similar campaign?</li>
+<li>Can you differentiate yourself with a more compelling offer?</li>
+<li>What does their campaign look like visually and can you be more engaging?</li>
+<li>Now is also the time to think about budget and resources.</li>
+<li>Can you create all your marketing materials yourself?</li>
+<li>Do you need to call on the skills of a graphic designer or photographer?</li>
+<li>Do you have time to manage the emailing portion of your campaign?</li>
+</ul>
+<h2 style="color: #fd5a0f">3/ Make a plan</h2>
+<p>Once you’ve decided who you want to target and when you want to launch your campaign, you can <a href="http://addons.prestashop.com/en/375-e-commerce-calendar" target="_blank">start mapping out your calendar</a>. If you’re running a holiday-specific campaign, you’ll want to get content together ahead of time. This way you can start teasing customers with deals and product guides several weeks in advance—in other words, don’t wait until February 1st to start thinking about Valentine’s Day promotions. Ask yourself these questions as you put together your plan:</p>
+<ul style="padding-left: 30px">
+<li>What incentive will you offer your customers?</li>
+<li>How often will you communicate with them over the length of the promotion?</li>
+</ul>
+<p>Use your customer personas to create personalized messages that you can promote across communication channels.</p>
+<h2 style="color: #fd5a0f">4/ Harmonize across channels</h2>
+<p>To maximize the impact of your promotion, consider how you’ll push it through your various communication channels, adapting the message to each outlet, i.e. website, email, social media, traditional media. You may want to roll out your campaign in different phases, teasing on social media and sending targeted emails with highly-perishable discount offers that communicate a sense of urgency and compel customers to respond to your call to action. Consistency is key to communicating reliability and credibility, which will also have an impact on how customers see your brand in the long run.</p>
+<h2 style="color: #fd5a0f">5/ Track, test, improve</h2>
+<p>Use analytics tools to gather data about how your campaign performed with different customer segments. You can use A/B testing to try out variations on elements like emails, landing page and calls to action. Be prepared to spend some time on this and don’t worry if it takes a while to get the performance you expect. The only way you can find out what’s working is to gather the data and compare the impact of changes you make. Also be sure to set a timeframe for your promotion. This will allow you to evaluate the impact of duration and seasonality when you look at your tracked data.</p>
+<p>Got a tip for successful sales campaigns you don’t see here? Share with the community in the comments. Ready to start your own successful ecommerce store? Get PrestaShop today.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-tips-successful-sales-campaign/">5 tips for a successful sales campaign</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/5-tips-successful-sales-campaign/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Online store web design: homepage structure</title>
+		<link>https://www.prestashop.com/blog/en/online-store-web-design-homepage-structure/</link>
+		<comments>https://www.prestashop.com/blog/en/online-store-web-design-homepage-structure/#comments</comments>
+		<pubDate>Mon, 27 Apr 2015 10:05:20 +0000</pubDate>
+		<dc:creator><![CDATA[Juan Manuel Molina]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19925</guid>
+		<description><![CDATA[<p>Redesigning your online store is easier than you think. But before you select colors, fonts and images, you need a clear idea of what your homepage structure will look like. Ask yourself the following questions: What information is essential for my customers? Where and how can I position this information? In this post, we outline [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/online-store-web-design-homepage-structure/">Online store web design: homepage structure</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Redesigning your online store is easier than you think. But before you select colors, fonts and images, you need a clear idea of what your homepage structure will look like. Ask yourself the following questions:</p>
+<ul style="padding-left: 30px">
+<li>What information is essential <strong>for my customers</strong>?</li>
+<li>Where and how can I position this information?</li>
+</ul>
+<p>In this post, we outline the essential elements of any online store&#8217;s homepage. Adapt them to your needs to design a homepage that increases sales and strengthens your brand image.<br />
+<span id="more-19925"></span></p>
+<p>Before we begin, keep in mind that: in most cases, the order of the information on the page depends on its importance and how it will be used. To understand what information your customers need, <a href="https://www.prestashop.com/blog/en/how-to-develop-buyer-personas-for-b2c-ecommerce-marketing/">define your ideal customer</a>.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="search" src="http://www.prestashop.com/blog/en/files/2015/04/Search.png" width="50" height="50" /> Search bar</h2>
+<p><a href="http://addons.prestashop.com/en/travel/19445-traveler-prestashop-16-responsive-theme.html" target="_blank"><img class="aligncenter size-large wp-image-12827" alt="searchbar1" src="http://www.prestashop.com/blog/en/files/2015/04/searchbar1-1024x537.jpg" width="700" height="367" /></a></p>
+<p><a href="http://addons.prestashop.com/en/food-drinks/19451-sushi-house-16-responsive.html" target="_blank"><img class="aligncenter size-large wp-image-12828" alt="searchbar2" src="http://www.prestashop.com/blog/en/files/2015/04/searchbar2-1024x537.jpg" width="700" height="367" /></a></p>
+<p>Make products easier to find with a highly visible search bar located in the center or top left-hand corner of your page. Many of your customers already know what they want so you just have to help them find it.</p>
+<p>On the mobile version of your website, try to position the search bar as close to the top of the page as possible: just after the logo and, ideally, next to the menu icon.</p>
+<p>Bonus: From the results page, let customers add the product directly into the shopping cart.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="shopping" src="http://www.prestashop.com/blog/en/files/2015/04/Shopping.png" width="50" height="50" /> Shopping cart or basket</h2>
+<p><a href="https://www.mackweldon.com/cart" target="_blank"><img class="aligncenter size-large wp-image-12830" alt="shopping-cart" src="http://www.prestashop.com/blog/en/files/2015/04/shopping-cart-1024x537.jpg" width="700" height="367" /></a></p>
+<p>Adding products to a cart can be fun and even addictive! Use emotional design techniques to transform the shopping experience into something enjoyable and memorable.</p>
+<p>If your brand allows, adapt the tone of voice and word choice of your shopping cart buttons and calls to action to match the category of your products, seasons, campaigns, etc.</p>
+<p><strong>Try using humor</strong> in your status bars and notifications &#8212; but remember to avoid offending your target customer. If you apply humor to your text, <strong>don’t forget to keep the design of your buttons and links consistent</strong> so you don’t confuse customers.</p>
+<p>Bonus: Leverage gamification to encourage users to add more products to the cart. For example, indicate the amount remaining to obtain a free delivery in a progress bar or attract customer to unlock &#8216;levels&#8217; based on the products (e.g., fan, handyman, expert).</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="slider" src="http://www.prestashop.com/blog/en/files/2015/04/Slider.png" width="50" height="50" /> Slider</h2>
+<p>Ideally a slider should include one fixed slide, and never more than three rotating slides. Use these slider to display seasonal promotions, new items and product selections or, even better, selections of discounted products adapted to a seasonal campaign (Father&#8217;s Day, Mother&#8217;s Day, Christmas, back to school, etc.).</p>
+<p>Customer should always be able to know what you sell directly from the slider. <strong>Display your products in a setting</strong> with an attractive background image that fills the space and an interesting text and call to action, adapted to the spirit of the promotion.</p>
+<p>Bonus: Discover some of the best examples of full-screen slider images in our article, <a href="https://www.prestashop.com/blog/en/5-ecommerce-design-trends-2015/">5 E-commerce design trends for 2015</a>.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="menu" src="http://www.prestashop.com/blog/en/files/2015/04/Menu.png" width="50" height="50" /> Menu</h2>
+<p><a href="http://www.bershka.com/" target="_blank"><img class="aligncenter size-large wp-image-12822" alt="menu" src="http://www.prestashop.com/blog/en/files/2015/04/menu-1024x537.jpg" width="700" height="367" /></a></p>
+<p>Most merchants think that the menu is the first thing that customers should see when they visit your website… but it doesn’t have to be.</p>
+<p>If the customers are browsing your site from a mobile device, it may be better to offer a search option and put the menu in an attractive drop-down. On larger screens, it is easier to browse and there is enough space to show all menu elements. But don’t get carried away and stuff the menu: <strong>it should contain at least 3 but no more than 7 elements</strong>.</p>
+<p>Focus on showing your product&#8217;s main categories:</p>
+<p>e.g., MEN, WOMEN, CHILDREN.</p>
+<p>If you notice a specific product drawing a lot of traffic to your store, don’t hesitate to add it to your menu. SHOES, SCARVES and BAGS are examples of subcategories that you could use in your main menu. GIFTS, VACATION or NEW YEAR&#8217;S EVE can also appear in your menu depending on the time of year. The name of your campaign or current collection could also be used.</p>
+<p>Try to keep the menu items as short as possible: two words are fine, but one is better.</p>
+<p>If you have a blog, we suggest inserting it in the menu.</p>
+<p>In PrestaShop 1.6, you can configure rich drop-down submenus to display products included in the category as well as promotional banners.</p>
+<p>Bonus: &#8216;About us&#8217;, &#8216;company&#8217;, &#8216;history&#8217; and similar pages should be kept out of the menu. We suggest placing them in the footer instead, because it’s where visitors expect to find them.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="filters" src="http://www.prestashop.com/blog/en/files/2015/04/Filters.png" width="50" height="50" /> Filter options</h2>
+<p>Filters are normally used on the category and product pages, but they can also be used on the homepage.</p>
+<p>Let customers filter by size, color, season, occasion, use, or even cooking technique, among other things. Add all the filters that are helpful for customers shopping for your product. Sometimes it is better to refer to product uses than the object itself. For example:</p>
+<p>Frying pans -&gt; for Frying<br />
+Pots -&gt; for Boiling</p>
+<p>Listen to your users to get the best filters for your product.</p>
+<p>With regards placement, it’s generally better to have drop-down filters. If the screen is large, you can display them permanently on the right side of the screen, in browse mode.</p>
+<p>Bonus: By default, place a filter on the homepage when the width of the shopper’s screen is greater than 1280 pixels.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="products" src="http://www.prestashop.com/blog/en/files/2015/04/Product.png" width="50" height="50" /> Products on the homepage</h2>
+<p><a href="http://addons.prestashop.com/en/fashion/19484-watches-store.html" target="_blank"><img class="aligncenter size-large wp-image-12825" alt="Products" src="http://www.prestashop.com/blog/en/files/2015/04/products-1024x537.jpg" width="700" height="367" /></a></p>
+<p><strong>Display the most interesting products on your homepage</strong> whenever there is a reason to do so. It is a good idea to <strong>have two points of entry</strong> (from the menu and homepage) to your product pages.</p>
+<p>It is important to tell customers &#8211; with a small title or label &#8211; why the product is on the homepage. Good examples of labels include: new items, best-selling items, discounts, last units in stock, etc. Always highlight the exclusive nature of the group of products or the limited amount of time that the products will be available.</p>
+<p>Bonus: Display a maximum of 10 products and activate the &#8216;Product quick view&#8217; option to help customers browse products with few clicks. Users will add these products to their carts without realizing!</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="Categories" src="http://www.prestashop.com/blog/en/files/2015/04/Categories.png" width="50" height="50" /> Categories</h2>
+<p><a href="http://www.reebok.com/" target="_blank"><img class="aligncenter size-large wp-image-12816" alt="categories" src="http://www.prestashop.com/blog/en/files/2015/04/categories-1024x537.jpg" width="700" height="367" /></a></p>
+<p>Continuing with the <strong>two points of entry</strong> or double entry strategy, include a block that shows off your categories with images or icons.</p>
+<p>Bonus: Select your most important categories or subcategories and, whenever possible, update them with promotions or product selections.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="Social Media" src="http://www.prestashop.com/blog/en/files/2015/04/Socialmedia.png" width="50" height="50" /> Social Media</h2>
+<p style="text-align: center"><a href="http://www.leslipfrancais.fr/en/" target="_blank"><img class="aligncenter  wp-image-19949" alt="socialmedia" src="http://www.prestashop.com/blog/en/files/2015/04/socialmedia-1024x537.jpg" width="700" height="367" /></a></p>
+<p><strong>Before the footer</strong>, include a section or several sections where customers can verify that you can be trusted; there is no better way than reading and seeing what customers say about you.</p>
+<p><strong>Include images from social media</strong>, stories or any other content created by your customers.</p>
+<p>For example, a section can show photos with the hashtag of your last campaign combined with photos from the official brand book or photos of the recipes that you recommend in your blog and cooked by your users with your appliances.</p>
+<p>Make use of everything that you can think of to show that you have an audience and that others love you, and so they should too.</p>
+<h2 style="color: #2b2b2b"><img style="margin-right: 2px" alt="Social Media" src="http://www.prestashop.com/blog/en/files/2015/04/Footer.png" width="50" height="50" /> Footer</h2>
+<p><img class="aligncenter size-large wp-image-12819" alt="footer" src="http://www.prestashop.com/blog/en/files/2015/04/footer-1024x537.jpg" width="700" height="367" /></p>
+<p>Here, insert your <strong>contact options</strong> and links to your social media. This section must visibly contain your website’s <strong>terms and conditions</strong>, particularly those related to <strong>shipping and returns</strong>.</p>
+<p>You can also include a newsletter field so users can receive news by Email and, if possible, specify how often the Newsletter is sent.</p>
+<p>Finally, use this space to discretely mention your security and trusted systems. If possible, include badges in black and white so you don’t distract customers from your page.</p>
+<h2 style="color: #2b2b2b">Conclusion</h2>
+<p>Customers form an initial impression of your brand and entire website just by looking at the design and organization of your homepage. Make sure that your website looks smart and professional because it is a great opportunity to gain visibility and trust and decrease your bounce rate.</p>
+<p>If you decide to redesign your online store yourself, follow this guide. In the next article, you will be able to learn more about designing an online store as we will look at the structure of the category pages and product pages.</p>
+<p>For more options for dressing, check out some of the <a href="http://addons.prestashop.com/en/3-templates-prestashop" target="_blank">templates</a> available for PrestaShop. If you want a custom developed design, any of our <a href="https://www.prestashop.com/en/web-agency-partners">associated web design agencies</a> will be happy to help.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/online-store-web-design-homepage-structure/">Online store web design: homepage structure</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/online-store-web-design-homepage-structure/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Get your free ecommerce store evaluation</title>
+		<link>https://www.prestashop.com/blog/en/get-free-ecommerce-store-evaluation/</link>
+		<comments>https://www.prestashop.com/blog/en/get-free-ecommerce-store-evaluation/#comments</comments>
+		<pubDate>Wed, 22 Apr 2015 12:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19646</guid>
+		<description><![CDATA[<p>Running an ecommerce business is a lot of work, we get it. It’s easy to lose perspective when you’re juggling so many priorities: is your site design drawing customers or chasing them away? Are you giving customers a memorable shopping experience that will keep them coming back or losing them before they hit checkout? The [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/get-free-ecommerce-store-evaluation/">Get your free ecommerce store evaluation</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Running an ecommerce business is a lot of work, we get it.</p>
+<p>It’s easy to lose perspective when you’re juggling so many priorities: is your site design drawing customers or chasing them away? Are you giving customers a memorable shopping experience that will keep them coming back or losing them before they hit checkout?</p>
+<p>The beginning of the year is a great time to step back and take a look at your site, before summer sales and the back-to-school season descend upon us (they’ll be here before you know it!). To help give you perspective, we’ve launched an Ecommerce Evaluation of the Month project.<span id="more-19646"></span></p>
+<p>Each month, one lucky business owner will get a thorough site evaluation by our in-house ecommerce experts, who will identify what’s working well and what could be tweaked to attract more customers and build a healthy long-term online business. The store will be featured on our blog.</p>
+<p>Here are just a few of the things our evaluation will address:</p>
+<ul style="margin-left: 30px;font-style: italic">
+<li>Traffic</li>
+<li>Conversions</li>
+<li>User experience</li>
+<li>Images</li>
+<li>Customer loyalty</li>
+</ul>
+<p>We’ll publish the evaluations on our blog so everyone in our community can learn from one another and benefit from seeing best practices in action.</p>
+<p>Ready to get personalized advice for your ecommerce store and learn from other stores?<br />
+Email us at <a href="mailto:ecommerce-evaluation@prestashop.com">ecommerce-evaluation@prestashop.com</a> to enter for a chance to get your free online store evaluation.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/get-free-ecommerce-store-evaluation/">Get your free ecommerce store evaluation</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/get-free-ecommerce-store-evaluation/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>A guided visit of PrestaShop’s new Paris headquarters</title>
+		<link>https://www.prestashop.com/blog/en/guided-visit-prestashops-new-paris-headquarters/</link>
+		<comments>https://www.prestashop.com/blog/en/guided-visit-prestashops-new-paris-headquarters/#comments</comments>
+		<pubDate>Mon, 20 Apr 2015 12:30:11 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19888</guid>
+		<description><![CDATA[<p>In the eight years since PrestaShop was founded in 2007, 230,000 stores have been created and 800,000 members welcomed into our worldwide ecommerce community. The PrestaShop story has been marked by several important milestones, and March 31, 2015 is no doubt one of the most exciting: on that brisk morning, 115 PrestaShop Paris employees discovered [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/guided-visit-prestashops-new-paris-headquarters/">A guided visit of PrestaShop’s new Paris headquarters</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In the eight years since PrestaShop was founded in 2007, 230,000 stores have been created and 800,000 members welcomed into our worldwide ecommerce community. The PrestaShop story has been marked by several important milestones, and March 31, 2015 is no doubt one of the most exciting: on that brisk morning, 115 PrestaShop Paris employees discovered their brand new office, a fresh, convivial space that embodies the PrestaShop team spirit.</p>
+<p>Come on and explore #PrestaShopHQ with us!</p>
+<p>The building was impossible to miss: an enormous banner waved a welcome to teams on opening day. (We’re still wondering how they got it up there…)<br />
+<span id="more-19888"></span></p>
+<p><img class="aligncenter size-large wp-image-19891" alt="Banner" src="http://www.prestashop.com/blog/en/files/2015/04/Banner-1024x276.jpg" /></p>
+<p>Once over the threshold, PrestaShop’s unique working philosophy is evident.</p>
+<p><img class="aligncenter size-full wp-image-19901" alt="Work like a Captain Play like a Pirate" src="http://www.prestashop.com/blog/en/files/2015/04/work-like.jpg" width="1026" height="684" /></p>
+<p>The airy, open plan offices are set up to encourage communication between teams.</p>
+<p><img class="aligncenter size-full wp-image-19895" alt="offices" src="http://www.prestashop.com/blog/en/files/2015/04/IMG_2902.jpg" width="1026" height="684" /></p>
+<p>The break room is a central meeting point for PrestaShop teams. The walls are colorfully adorned with tags and artwork created specially for PrestaShop by Parisian street artists. © tacks and nix</p>
+<p><img class="aligncenter size-full wp-image-19894" alt="Kitchen" src="http://www.prestashop.com/blog/en/files/2015/04/cafêt.jpg" width="1026" height="684" /></p>
+<p>Who do we have here? We’d like to introduce you to Preston, the latest PrestaShop recruit! He’s now an irreplacable member of the family.</p>
+<p><img class="aligncenter size-full wp-image-19897" alt="Puffin code" src="http://www.prestashop.com/blog/en/files/2015/04/Puffin-code.jpg" width="1026" height="684" /></p>
+<p>He loves to change things up and can be found throughout the office sporting many different outfits.</p>
+<div class="row">
+<div class="col-sm-4 col-xs-12"><img class="aligncenter size-full wp-image-19899" alt="Yoda Puffin" src="http://www.prestashop.com/blog/en/files/2015/04/puffin-yoda.jpg" width="1026" height="684" /></div>
+<div class="col-sm-4 col-xs-12"><img class="aligncenter size-full wp-image-19900" alt="Puffins" src="http://www.prestashop.com/blog/en/files/2015/04/puffins.jpg" width="1026" height="684" /></div>
+<div class="col-sm-4 col-xs-12"><img class="aligncenter size-full wp-image-19898" alt="puffin hipster" src="http://www.prestashop.com/blog/en/files/2015/04/puffin-hip.jpg" width="1026" height="684" /></div>
+</div>
+<p>Attention, you are entering an intensive fun zone! This is where teams take a break for a game of foosball or a round of MarioKart before getting back to work. ©kuhuru</p>
+<p><img class="aligncenter size-full wp-image-19893" alt="Bungalow" src="http://www.prestashop.com/blog/en/files/2015/04/bungalow.jpg" width="1026" height="684" /></p>
+<p>For those who prefer a bit of calm to recharge, there’s a room dedicated to afternoon cat naps.</p>
+<p><img class="aligncenter size-full wp-image-19892" alt="Break" src="http://www.prestashop.com/blog/en/files/2015/04/break.jpg" width="1026" height="684" /></p>
+<p>Speaking of cats…meet Puff Daddy, our newest resident! He’ll be living and working alongside the PrestaShop teams too.</p>
+<p><img class="aligncenter size-full wp-image-19896" alt="Puff Daddy" src="http://www.prestashop.com/blog/en/files/2015/04/Puff-Daddy.jpg" width="1026" height="684" /></p>
+<p>This is just a glimpse of how we work at PrestaShop. For a better idea of what it’s like to work for PrestaShop, head on over to Pinterest and take a look at our <a href="https://www.pinterest.com/prestashop/working-at-prestashop/" target="_blank">Working at PrestaShop board</a> or follow us on Instagram <a href="https://instagram.com/prestacrew/" target="_blank">@prestacrew</a>.</p>
+<p>Want to join our team? Check out our <a href="https://www.prestashop.com/en/careers" target="_blank">Careers page</a> and send us your application today!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/guided-visit-prestashops-new-paris-headquarters/">A guided visit of PrestaShop’s new Paris headquarters</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/guided-visit-prestashops-new-paris-headquarters/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>A mom and an entrepreneur? Gretel Home’s mommypreneur is living proof it’s possible</title>
+		<link>https://www.prestashop.com/blog/en/mom-entrepreneur-gretel-homes-mommypreneur-living-proof-possible/</link>
+		<comments>https://www.prestashop.com/blog/en/mom-entrepreneur-gretel-homes-mommypreneur-living-proof-possible/#comments</comments>
+		<pubDate>Mon, 13 Apr 2015 13:30:17 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Success Stories]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19866</guid>
+		<description><![CDATA[<p>An inconvenient truth for most women like myself is that we often have to sacrifice time in order to start our family &#8211;time that usually falls smack-dab in the middle of our careers. Do we choose to spend our time doing what we love or be there to experience our children’s “firsts”? The hardest part [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/mom-entrepreneur-gretel-homes-mommypreneur-living-proof-possible/">A mom and an entrepreneur? Gretel Home’s mommypreneur is living proof it’s possible</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>An inconvenient truth for most women like myself is that we often have to sacrifice time in order to start our family &#8211;time that usually falls smack-dab in the middle of our careers. Do we choose to spend our time doing what we love or be there to experience our children’s “firsts”? The hardest part about this choice is that there is no <strong style="font-style: italic;">easy</strong> answer&#8211;and more importantly, no <strong style="font-style: italic;">right</strong> answer.</p>
+<p>Mommypreneur and <a href="http://gretelhome.com/" target="_blank">PrestaShop Merchant Abby Kellett</a> decided she wanted to take part in her daughters Beatrice and Josephine’s lives, even if it meant leaving her career. This choice allowed Abby to spend time with both her daughters and watch them grow. But Abby soon realized that the enjoyment she got from being a mom couldn’t replace her passion for interior design. So she searched for opportunities that would allow her to be a mother and work in interior design at the same time. The perfect compromise was to launch <a href="http://www.gretelhome.com/" target="_blank">Gretel Home</a>, an online interior design store, with PrestaShop. Read on to hear all about Abby’s mommypreneur story.<br />
+<span id="more-19866"></span><br />
+<img class="aligncenter size-full wp-image-19867" alt="home" src="http://www.prestashop.com/blog/en/files/2015/04/home.png" width="1004" height="757" /></p>
+<h2 style="color: #ebba9f;">Becoming an online entrepreneur</h2>
+<p>Opening an online store allowed Abby to both be a mommy and pursue her professional passion. Abby shares, “I was always passionate about design, I studied interior design then worked as a stylist at Elle Decoration in London.” She draws on her interior design background to hand-pick home goods for her online shop. Running an online business gives her the flexibility to work from anywhere, anytime.</p>
+<h2 style="color: #ebba9f;">From launch to ecommerce success</h2>
+<p><img class="alignright  wp-image-19868" alt="rabbit" src="http://www.prestashop.com/blog/en/files/2015/04/rabbit.png" width="248" height="205" /></p>
+<p>Abby, a non-technical entrepreneur, hired a freelancer to set up <a href="http://www.gretelhome.com/" target="_blank">Gretel Home</a>. PrestaShop came highly recommended because of its flexibility and low-cost maintenance. Even as Abby continues to grow her business, her shop can be scaled to accommodate more customers and products. Another perk: Abby was able to customize her shop’s look to make it feel warm and homey. She decorated with a touch of floral and peach, then crafted welcoming text throughout her website.</p>
+<p>Nine months after Abby decided to go it on her own, she launched her PrestaShop store. She hand picks each piece of houseware sold on Gretel Home is for its crafty, yet modern look. Whether it’s a <a href="http://www.gretelhome.com/roros-tweed/1025-lynild-blanket-in-pink-and-green.html" target="_blank">blanket from a historic hill-top mill</a> in Norway or <a href="http://www.gretelhome.com/oli-carol/1109-red-mushroom-chewable-toy.html" target="_blank">whimsical baby chew toys</a> made in Morocco, they each add a little bit of character to their eventual homes.</p>
+<p><img class="alignleft  wp-image-19869" alt="window" src="http://www.prestashop.com/blog/en/files/2015/04/window.png" width="257" height="212" /></p>
+<p>For these pieces to find a home, Abby’s online store needs website visits. To drive traffic, Abby attended art festivals; including the Miami Art Basel, where she passed out business cards with links to <a href="http://www.gretelhome.com/" target="_blank">Gretel Home</a>. For an extra boost of visibility, she reached out to major design magazines for feature opportunities. Gretel Home’s housewares have been featured in <a href="http://tmagazine.blogs.nytimes.com/2013/04/02/good-enough-to-eat-pieces-of-porcelain/" target="_blank">T Magazine by Times Magazine</a>, <a href="http://www.realsimple.com/work-life/life-strategies/problem-solving-products-10" target="_blank">Real Simple Magazine</a>, <a href="http://www.gretelhome.com/content/12-Press" target="_blank">Martha Stewart Living</a> and <a href="http://www.gretelhome.com/content/12-Press" target="_blank">Elle Decor</a>, <a href="http://www.gretelhome.com/content/12-Press" target="_blank">among others</a>. “Once a piece is featured; the product sells out on Gretel Home. It’s obvious that people love these designs; they just need to be able to find my shop,” says Abby, from Gretel Home.</p>
+<h2 style="color: #ebba9f;">Ecommerce versus Brick and Mortar</h2>
+<p>A year after launching her online business, Abby considered opening a physical retail store. It would have been a great opportunity to grow Gretel Home’s presence in Miami. But although it was tempting, Abby remembered the reason she had initially started selling online: having the freedom to spend time with her children.</p>
+<p>Unlike her online store, a brick and mortar shop would have required her to be on site during opening hours. It would also require a large financial commitment &#8212; leasing a storefront and keeping it staffed.</p>
+<p>Having a unique online presence has benefits of its own. Gretel Home welcomes customers from all over the world to shop hand-selected designs. Abby jokes, “My knowledge of US geography has vastly improved.” Since launching her shop, Gretel Home goods have arrived in homes in major cities like New York City and Tokyo to small towns in North Dakota.</p>
+<h2 style="color: #ebba9f;">From a passion for interior design to a successful business</h2>
+<p>It’s now been five years since Gretel Home first launched. Abby turned her passion for beautiful interiors into a full-fledged successful business. Abby currently employs a team of 5 stylists and graphic designers that assist her in freelance styling jobs, styling Gretel Home sponsored events and day-to-day ecommerce operations.</p>
+<h2 style="color: #ebba9f;">Having a career and a family too!</h2>
+<p>Abby is more than a PrestaShop merchant&#8211;she’s an inspiration to all mommies considering starting their online store. She’s living proof that being both a mom and an entrepreneur is possible. By having the courage to make her children a priority, she gave herself the opportunity to transform her passion into a successful online store.</p>
+<p>Catch Abby and PrestaShop CMO, Leah Anathan, <span style="line-height: 1.5;">on <a href="https://youtu.be/wt_P75SwPMo" target="_blank">The Balancing Act</a> </span><span style="line-height: 1.5;">airing on Lifetime Television® as they </span><span style="line-height: 1.5;">share how you can become a mommypreneur</span><span style="line-height: 1.5;">.</span></p>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/wt_P75SwPMo" frameborder="0" allowfullscreen></iframe><br />
+______________</p>
+<p>Now it’s your turn. Are you a mommy inspired to launch your own online store? Get started selling online with <a href="http://www.prestashop.com/">PrestaShop Cloud</a>. We’re making it simple to start by providing a free shopping cart software hosted at no cost, with no monthly fee or commissions on your sales.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/mom-entrepreneur-gretel-homes-mommypreneur-living-proof-possible/">A mom and an entrepreneur? Gretel Home’s mommypreneur is living proof it’s possible</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/mom-entrepreneur-gretel-homes-mommypreneur-living-proof-possible/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Le Slip Français: From Friendly Bet to International Success</title>
+		<link>https://www.prestashop.com/blog/en/le-slip-francais-friendly-bet-international-success/</link>
+		<comments>https://www.prestashop.com/blog/en/le-slip-francais-friendly-bet-international-success/#comments</comments>
+		<pubDate>Wed, 08 Apr 2015 13:30:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sabrina Maréchal]]></dc:creator>
+				<category><![CDATA[Success Stories]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19837</guid>
+		<description><![CDATA[<p>One of the most unique French e-commerce sites on the marketplace was launched in September 2011 after a friendly bet. Is it possible, the friends wondered, to launch a successful venture in any field whatsoever, with nothing but a nice story and beautiful French-made products? &#8220;Not with just anything,&#8221; came the challenge. &#8220;For example, it&#8217;s [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/le-slip-francais-friendly-bet-international-success/">Le Slip Français: From Friendly Bet to International Success</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>One of the most unique French e-commerce sites on the marketplace was launched in September 2011 after a friendly bet. Is it possible, the friends wondered, to launch a successful venture in any field whatsoever, with nothing but a nice story and beautiful French-made products? &#8220;<span style="font-style: italic;">Not with just anything,</span>&#8221; came the challenge. &#8220;<span style="font-style: italic;">For example, it&#8217;s impossible with men&#8217;s briefs!</span>&#8221; Guillaume Gibault, a 26-year-old HEC graduate, replied: &#8220;<span style="font-style: italic;">Impossible with men&#8217;s briefs? Not if they&#8217;re French!</span>&#8221;</p>
+<p>Fast forward to the present. <strong>Guillaume currently employs 15 people at</strong> <a href="http://www.leslipfrancais.fr/en" target="_blank">Leslipfrancais.fr</a> and <strong>earned €1.5 million in revenue in 2014</strong>.</p>
+<p>I had a chance to speak with Clément Coignac, Web Manager at Le Slip Français, who told me this exciting story about men&#8217;s briefs.<br />
+<span id="more-19837"></span></p>
+<h2 style="color: #337f97;">Ambitious First Steps</h2>
+<p>After his bet, Guillaume had 600 pairs of briefs made in a small factory in Dordogne. He brought them back to Paris in the trunk of his car. To sell them, he created his first e-commerce site by himself. He used the PrestaShop platform because &#8220;<span style="font-style: italic;">it&#8217;s simple, flexible, let me launch alone at first, and it was quick to set up.</span>&#8221;</p>
+<p><strong>The first order came the day the site launched.</strong> These briefs were on a path to success!</p>
+<h2 style="color: #337f97;">The Briefs Take Off</h2>
+<p>The spotlight started to shine on Le Slip Français during the 2012 Presidential Campaign. At first it was difficult to see the connection. But it was there!</p>
+<p>The &#8220;Made in France&#8221; issue was one of the central themes of the campaign. By creatively altering the campaign posters of several candidates in the election, Guillaume’s underwear stole the spotlight from politicians. The media immediately picked up on this unusual marketing campaign, and Le Slip Français was soon featured on <a href="https://www.youtube.com/user/leslipfrancais/videos" target="_blank">all of the major national media outlets, from the &#8220;20 heures&#8221; evening news program on TF1 to Le Figaro and Canal +</a>.</p>
+<div class="row">
+<div class="col-sm-3 col-xs-12 text-center"><img class="aligncenter  wp-image-19841" alt="Nicolas Sarkozy" src="http://www.prestashop.com/blog/en/files/2015/04/1927904_sarkozy.jpg" width="240" height="318" /></div>
+<div class="col-sm-3 col-xs-12 text-center"><img class="aligncenter  wp-image-19839" alt="François Hollande" src="http://www.prestashop.com/blog/en/files/2015/04/1927904_hollande.jpg" width="240" height="403" /></div>
+<div class="col-sm-3 col-xs-12 text-center"><img class="aligncenter  wp-image-19852" alt="François Bayrou" src="http://www.prestashop.com/blog/en/files/2015/04/1927904_bayrou.jpg" width="239" height="334" /></div>
+<div class="col-sm-3 col-xs-12 text-center"><img class="aligncenter  wp-image-19840" alt="Mélenchon" src="http://www.prestashop.com/blog/en/files/2015/04/1927904_melenchon.jpg" width="294" height="196" /></div>
+</div>
+<h2 style="color: #337f97;">A Huge Boost in Sales and an Expanded Product Line</h2>
+<p>By Christmas, Le Slip Français had become a victim of its own success. &#8220;<span style="font-style: italic;">On December 10, our inventory was practically down to zero. Our brand works very well for gifts: Christmas, Father&#8217;s Day, and Valentine&#8217;s Day all have a very big impact on our sales. <strong>We make a quarter of our sales in November and December alone.</strong></span>&#8221;</p>
+<p>Guillaume gradually decided to expand his product line while staying with the typically French basics that brought him his success: briefs, boxers, socks, and T-shirts, as well as slippers, espadrilles, and pétanque balls. In 2013, he launched a swimsuit collection that sold out in just one week.</p>
+<p>Today, the company works with about 15 suppliers, including the original factory. The majority of production is now in Lille, &#8220;<span style="font-style: italic;">in a factory that&#8217;s able to keep up the pace,</span>&#8221; Clément explains.</p>
+<p>&#8220;<span style="font-style: italic;">Everything we distribute is Made in France, including the packaging for our products. We&#8217;re also proud to offer products that come from partnerships with major brands and famous designers like Saint James, Agnès B, and Princesse Tam-Tam.</span>”</p>
+<p><img class="aligncenter size-full wp-image-19845" style="border: 1px solid #dce1e5;" alt="etendue-catalogue" src="http://www.prestashop.com/blog/en/files/2015/04/etendue-catalogue.png" width="494" height="301" /></p>
+<h2 style="color: #337f97;">From an Online Store to Brick and Mortar, With the Help of the &#8220;Slip Truck&#8221;</h2>
+<p><strong>It took less than three years for Le Slip Français to find a home with <a href="http://www.leslipfrancais.fr/en/content/16-stockists" target="_blank">over sixty retailers</a></strong>, including the emblematic Galeries Lafayette in Paris.</p>
+<p>In July 2014, the company set off to conquer the beaches of France with its Slip Truck, a van offering made-in-France briefs and swimsuits to vacationing tourists. The truck was one of the first steps Le Slip Français took towards brick-and-mortar commerce.</p>
+<p>In October 2014, while the company was migrating to PrestaShop 1.6 for the third version of its site, it opened its first physical store in Paris.</p>
+<div class="row">
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19844" alt="estafette-slip-francais" src="http://www.prestashop.com/blog/en/files/2015/04/estafette-slip-francais.jpg" width="350" height="218" /></div>
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19842" alt="shop" src="http://www.prestashop.com/blog/en/files/2015/04/boutique.png" width="306" height="307" /></div>
+</div>
+<h2 style="color: #337f97;">The Recipe for Success: PrestaShop 1.6, Helping Le Slip Français Succeed</h2>
+<div class="row">
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19856" style="border: 1px solid #dce1e5;" alt="homepage" src="http://www.prestashop.com/blog/en/files/2015/04/homepage.png" width="333" height="589" /></div>
+<div class="col-sm-6 col-xs-12">When I asked Clément for the recipe for success for Le Slip Français, PrestaShop was the first ingredient he mentioned: &#8220;<span style="font-style: italic;">We&#8217;ve always relied on the PrestaShop platform, from Guillaume&#8217;s first steps and our major media campaigns to where we are today. The platform has been with our business as we&#8217;ve grown in terms of design and features, and is very capable of handling spikes in traffic.</span>&#8220;For its recent migration to PrestaShop 1.6, the Le Slip team worked with <a href="https://www.prestashop.com/en/web-agency-partners/platinum/newquest" target="_blank">NewQuest</a>, a PrestaShop-certified agency. This new version <strong>has brought lots of new features and optimizations to the online store</strong>. &#8220;<span style="font-style: italic;">We&#8217;re very happy to have upgraded to PrestaShop version 1.6. The change in interfaces is incredible,</span>&#8221; Clement says.</div>
+</div>
+<p>Whenever the brand appears on TV or is mentioned in a national newspaper, there can be a major increase in traffic. After their appearance on the TF1 evening newscast in September 2012, there were <strong>more than 5,000 simultaneous connections to the site, and around 15,000 connections in the 5 minutes following the broadcast of the report</strong>.</p>
+<p>Yann Costes, founder of NewQuest, explains: &#8220;<span style="font-style: italic;"><strong>PrestaShop naturally manages traffic spikes</strong>. In the case of Le Slip Français, its store and database are hosted on different servers, which allows them to handle a large increase in traffic at any time. We can also add additional servers and a load balancer to guarantee 100% site uptime for special promotions on major media outlets.</span>&#8221;</p>
+<div class="row">
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19848" style="border: 1px solid #dce1e5;" alt="mobile version" src="http://www.prestashop.com/blog/en/files/2015/04/mobile1-575x1024.png" width="345" height="614" /></div>
+<div class="col-sm-6 col-xs-12"><img class="aligncenter  wp-image-19849" style="border: 1px solid #dce1e5;" alt="mobile version" src="http://www.prestashop.com/blog/en/files/2015/04/mobile2-575x1024.png" width="345" height="614" /></div>
+</div>
+<p>Upgrading from PrestaShop 1.3 to 1.6 also helped the brand implement a number of new features. In addition to <strong>a mobile version of the site and emails</strong> (which led to more than a 10% increase in sales in that channel), <strong>abandoned cart reminders</strong>, and automatic promotions for <strong>customer birthdays</strong>, NewQuest made several customizations that are unique to the store.</p>
+<p><img class="aligncenter  wp-image-19843" style="border: 1px solid #dce1e5;" alt="map France" src="http://www.prestashop.com/blog/en/files/2015/04/cms-fabrication-727x1024.png" width="448" height="630" /></p>
+<p><strong>CMS page management</strong> was adapted to fit as closely as possible to the brand&#8217;s needs. Pages like &#8220;<a href="http://www.leslipfrancais.fr/en/timeline?fr%2Ftimeline=" target="_blank">The History of Briefs</a>&#8221; and &#8220;<a href="http://www.leslipfrancais.fr/en/content/6-madeinfrance" target="_blank">100% Made in France</a>&#8221; were custom created, then the CMS interfaces of the PrestaShop back office were adapted to the content.</p>
+<p>Another feature unique to Le Slip Français is how photos from social networks can be shared directly to the product page in question. By associating a unique hashtag with each product, the team at Le Slip Français can monitor posts and share content from them on product pages. This <strong>helps strengthen the brand&#8217;s sense of community</strong> and presents the products in another light.<br />
+For email campaigns, <strong>the store is connected to <a href="http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/18921-official-mailchimp-for-prestashop-16.html" target="_blank">MailChimp</a></strong>. Customers who sign up for the newsletter are automatically segmented by profile and purchases. It’s basically the age-old question: &#8220;Boxers or briefs?&#8221;</p>
+<p>Le Slip Français uses <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/8334-be2bill-internet-payment-paiement-simple.html" target="_blank">Be2Bill</a> and <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/1748-paypal.html" target="_blank">PayPal</a> for its online payments. Logistics, which had initially been managed in Guillaume&#8217;s garage, are <strong>now completely outsourced</strong> with Logtex using EDI to send and track orders, and connected to Fastmag ERP software for inventory management.</p>
+<p>The company doesn&#8217;t run many AdWords or retargeting campaigns. <strong>Thanks to PrestaShop&#8217;s natural SEO, the brand is <a href="https://www.google.fr/?gws_rd=ssl#q=slip" target="_blank">number one in France for the keyword &#8220;briefs&#8221;</a></strong> (remember <a href="https://www.google.fr/?gws_rd=ssl#q=tablier" target="_blank">Madame Choup and her aprons</a>, <a href="https://www.google.fr/?gws_rd=ssl#q=chaise" target="_blank">4-pieds and their chairs</a>, and <a href="https://www.google.fr/?gws_rd=ssl#q=chaussettes" target="_blank">the Archiduchesse&#8217;s socks</a>…?).</p>
+<p><img class="aligncenter  wp-image-19850" style="border: 1px solid #dce1e5;" alt="Yahoo Japan" src="http://www.prestashop.com/blog/en/files/2015/04/yahoo-japan.png" width="394" height="325" /></p>
+<p>Thanks to its strong values, the brand now has over <strong>50,000 fans and nearly 10,000 followers</strong>. &#8220;<span style="font-style: italic;">Our community is like our playground,</span>&#8221; Clément explains. &#8220;<span style="font-style: italic;">It&#8217;s incredibly supportive. <a href="http://www.mymajorcompany.com/sentez-bon-du-slip" target="_blank">Our crowdfunding campaign for &#8220;briefs that smell good&#8221;</a> brought in more than €22,000 instead of the €10,000 we had hoped for!</span>&#8221; The company is doing an excellent job of capitalizing on the buzz. Its &#8220;Surprise du Chef&#8221; (&#8220;Chef&#8217;s Surprise&#8221;) video has nearly one million views on YouTube, and even made the front page of <a href="http://videotopics.yahoo.co.jp/videolist/official/others/pc3cffe09e04afe3f0ec6878684b4dfd3" target="_blank">Yahoo Japan</a>!</p>
+<h2 style="color: #337f97;">The Future of Le Slip: International Expansion</h2>
+<p>Le Slip has quite a few plans in the works with PrestaShop. The first is conquering international markets.</p>
+<p>&#8220;<span style="font-style: italic;">Le Slip Français has already had some success in Western Europe (Belgium, Germany, and the United Kingdom) and Asia. 2015 will be our year for international growth. Soon our site will be translated into German and Chinese. These versions will use PrestaShop&#8217;s multistore feature, which will give us completely localized front offices with specific domain names,</span>&#8221; Clément says.</p>
+<p>They plan to use PrestaShop 1.6&#8242;s shared inventory feature to <strong>centralize inventories</strong> between the physical and online stores.</p>
+<p>Finally, there&#8217;s also <strong>a WordPress blog interfaced with PrestaShop</strong> in the works: product pages will link to articles that mention them, and vice-versa.</p>
+<p>Much more can be said about the success of Le Slip Français&#8230; <strong>check out the key figures in this infographic!</strong></p>
+<p><img class="aligncenter size-full wp-image-19847" alt="Infographic" src="http://www.prestashop.com/blog/en/files/2015/04/LSFInfographic_EN-01.jpg" width="1280" height="11059" /></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/le-slip-francais-friendly-bet-international-success/">Le Slip Français: From Friendly Bet to International Success</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/le-slip-francais-friendly-bet-international-success/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Is your ecommerce store ready for Google’s mobile-friendly update?</title>
+		<link>https://www.prestashop.com/blog/en/ecommerce-store-ready-googles-mobile-friendly-update/</link>
+		<comments>https://www.prestashop.com/blog/en/ecommerce-store-ready-googles-mobile-friendly-update/#comments</comments>
+		<pubDate>Fri, 03 Apr 2015 15:48:57 +0000</pubDate>
+		<dc:creator><![CDATA[Gary Le Masson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19829</guid>
+		<description><![CDATA[<p>Breaking news: starting April 21st, only mobile and responsive sites will appear in Google search results on mobile devices. If you read my predictions for ecommerce in 2015, then Google’s announcement probably isn’t a big surprise&#8211;I was pretty sure this would be the year of mobile. So what does this mean for you as an [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-store-ready-googles-mobile-friendly-update/">Is your ecommerce store ready for Google’s mobile-friendly update?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Breaking news: starting April 21st, only mobile and responsive sites will appear <a href="http://googlewebmastercentral.blogspot.fr/2015/02/finding-more-mobile-friendly-search.html" target="_blank">in Google search results on mobile devices</a>. If you read my <a href="https://www.prestashop.com/blog/en/ecommerce-seo-trends-for-2015/">predictions for ecommerce in 2015</a>, then Google’s announcement probably isn’t a big surprise&#8211;I was pretty sure this would be the year of mobile.<br />
+<span id="more-19829"></span><br />
+So what does this mean for you as an ecommerce store owner? Simply put, if your website theme is not mobile or responsive, you won’t show up in search results on phones of any size or make. The customer browsing for a Mother’s Day gift on his phone? He won’t see your selection of hand-knitted sweaters in Peruvian wool. The frazzled customer who needs to order invitations for a party from her smartphone? She will never see your enticing catalog of custom-designed letterpress stationary.</p>
+<p>It might be a bit tough to swallow, but as an ecommerce merchant, you don’t really have a choice anymore; you must be mobile compatible. While the stakes are high, the investment doesn’t have to be. Here’s what you need to do.</p>
+<p>If you worked with an agency to set up your site, get in touch with them. Tell them you want to switch to a mobile-compatible theme.<br />
+If you’re on your own or don’t have the budget for an agency, you can change your theme yourself, but you’ll need to factor in a little extra time. But trust me, it’s time that will pay off.</p>
+<ol>
+<li>Browse the <a href="http://addons.prestashop.com/en/3-templates-prestashop">PrestaShop mobile-responsive themes</a> on the Addons marketplace.</li>
+<li>Buy and install your new theme.</li>
+<li>Test your site. Check to see that images are the right size and resolution, and that everything displays nicely on various mobile devices.</li>
+<li>Take advantage of Mcommerce!</li>
+</ol>
+<p>If you still have doubts, do this test (before it’s no longer possible): using your smartphone or tablet, search for any product keyword online. Visit sites that are mobile responsive and others that aren’t. The difference in quality should be enough to prove why sites that aren’t mobile responsive are going the way of the dodo.</p>
+<p>For a full selection of mobile-responsive templates, visit the Addons Marketplace. Our <a href="https://www.prestashop.com/en/web-agency-partners">partner agencies</a> are more than happy to consult with you as well.<br />
+Have you upgraded to a mobile-responsive theme? How did it go? Do you have any recommendations for other merchants? Let us know in the comments. Ready to launch your own mobile-responsive ecommerce store? <a href="https://www.prestashop.com/en/web-agency-partners">Create your online store now with PrestaShop</a> today.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-store-ready-googles-mobile-friendly-update/">Is your ecommerce store ready for Google’s mobile-friendly update?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/ecommerce-store-ready-googles-mobile-friendly-update/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop Modules: Customizing the look of your homepage</title>
+		<link>https://www.prestashop.com/blog/en/prestashop-modules-customizing-look-homepage/</link>
+		<comments>https://www.prestashop.com/blog/en/prestashop-modules-customizing-look-homepage/#comments</comments>
+		<pubDate>Thu, 02 Apr 2015 13:30:58 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19796</guid>
+		<description><![CDATA[<p>If you’re like most PrestaShop merchants, the first thing you’re probably itching to do after installing your shop is add your own personal touch by customizing design. From uploading your logo to adding images, we agree&#8211;it’s the most fun part about building an online store! So today we&#8217;re going to show you how to modify [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-modules-customizing-look-homepage/">PrestaShop Modules: Customizing the look of your homepage</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>If you’re like most PrestaShop merchants, the first thing you’re probably itching to do after installing your shop is add your own personal touch by customizing design. From uploading your logo to adding images, we agree&#8211;it’s the most fun part about building an online store! So today we&#8217;re going to show you how to modify your homepage.<br />
+<span id="more-19796"></span><br />
+To help you start customizing your home page, here are some modules we think you’ll like. They’re easy to access through the PrestaShop Back office under the “Modules” tab.</p>
+<p><img class="aligncenter size-full wp-image-19798" alt="header" src="http://www.prestashop.com/blog/en/files/2015/03/header.jpg" width="600" height="393" /></p>
+<h2 style="color: #71bd39">Modules above the fold</h2>
+<p>&#8220;Above the fold&#8221; is a concept borrowed from the newspapers. Originally, it referred to the practice of placing the most important articles above the newspaper fold. This concept has made its way to the web and now also refers to the content on a webpage that is visible to a visitor without having to scroll. Anything “above the fold” is the first thing your customers see when they land on your page. Here are the modules that give you control over this portion of your shop:</p>
+<ol style="padding-left: 30px">
+<li>Banner Block</li>
+<li>Contact Block</li>
+<li>Preferences &gt; Themes &gt; Logo Tab &gt; Header Logo</li>
+<li>Quick Search Block (only enable and disable)</li>
+<li>Top horizontal Menu</li>
+<li>Image slider (homepage)</li>
+<li>Theme Configurator &gt; Hook “Top”</li>
+</ol>
+<p><img class="aligncenter size-full wp-image-19799" alt="template" src="http://www.prestashop.com/blog/en/files/2015/03/template.jpg" width="600" height="656" /></p>
+<h2 style="color: #71bd39">Modules in the Body</h2>
+<p>Our default template offers many opportunities for conversions once your customer starts scrolling through the home page. We start by featuring your products, then we include large advertising blocks that help highlight product categories. Finally, we close the section with CMS blocks to help you build credibility.</p>
+<ol style="padding-left: 30px" start="8">
+<li>New products block</li>
+<li>Featured products (homepage)</li>
+<li>Top-Sellers block</li>
+<li>Theme Configurator &gt; Hook “Body”</li>
+<li>Facebook Like block</li>
+<li>Custom CMS information block</li>
+</ol>
+<p><img class="aligncenter size-full wp-image-19797" alt="footer" src="http://www.prestashop.com/blog/en/files/2015/03/footer.jpg" width="600" height="234" /></p>
+<h2 style="color: #71bd39">Modules in the Footer</h2>
+<p>PrestaShop’s default theme gives you a large footer on every page. Whether your customers are on a product, category or even CMS page, they can access the information provided in the footer.<br />
+The first section includes a newsletter subscription block to help you collect emails and social media buttons for increasing social awareness. Next, we provide links to important pages on your website, which helps merchants navigate there easily.</p>
+<ol style="padding-left: 30px" start="14">
+<li>Newsletter block</li>
+<li>Social Networking Block</li>
+<li>Categories block</li>
+<li>CMS block</li>
+<li>My account block for your website&#8217;s footer (Enable / Disable)</li>
+<li>Contact information block</li>
+<li>CMS block</li>
+</ol>
+<p>What’s your favorite module? Let us know in the comments below. If you’re actively working on your website, bookmark this article to have it easily accessible! Want to learn more about PrestaShop? Check out these resources:</p>
+<ul style="padding-left: 30px">
+<li><a href="https://www.prestashop.com/forums/">PrestaShop Forum</a> (Exchange ideas with our 700,000 member international community)</li>
+<li><a href="https://www.prestashop.com/en/newsletter">PrestaShop Newsletter</a> – Get the latest PrestaShop advice delivered straight to your inbox</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-modules-customizing-look-homepage/">PrestaShop Modules: Customizing the look of your homepage</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/prestashop-modules-customizing-look-homepage/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Comparing 3 Major Shipping Carriers &#8211; UPS vs. FedEx vs. USPS</title>
+		<link>https://www.prestashop.com/blog/en/comparing-3-major-shipping-carriers-ups-vs-fedex-vs-usps/</link>
+		<comments>https://www.prestashop.com/blog/en/comparing-3-major-shipping-carriers-ups-vs-fedex-vs-usps/#comments</comments>
+		<pubDate>Tue, 31 Mar 2015 13:30:36 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19785</guid>
+		<description><![CDATA[<p>“Which shipping carrier should I use for my business?” This question usually rears its head as an online seller becomes more successful and consequently, has more orders to ship. To help merchants narrow down and select the right shipping service for their business needs, we’ve asked Olivier Trunkett, from ShippingEasy, to compare the different shipping [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/comparing-3-major-shipping-carriers-ups-vs-fedex-vs-usps/">Comparing 3 Major Shipping Carriers &#8211; UPS vs. FedEx vs. USPS</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>“Which shipping carrier should I use for my business?” This question usually rears its head as an online seller becomes more successful and consequently, has more orders to ship. To help merchants narrow down and select the right shipping service for their business needs, we’ve asked Olivier Trunkett, from ShippingEasy, to compare the different shipping solutions available for merchants in the United States. Read on to see what he shares!<br />
+<span id="more-19785"></span><br />
+There are three major carriers available in the United States: UPS, FedEx and the United States Postal Service (USPS). These brands are familiar to most Americans and are associated with reliable shipping to consumer residences.</p>
+<p>Although each carrier has specific strengths, their differences aren’t as stark as they once were. The carries all have strategies to serve the ecommerce market and continue to improve their pick-up, service, delivery options and tracking to meet online sellers’ (and buyers’) needs. As a result, USPS now has exceptional 1-3 day Priority Mail capabilities, FedEx and UPS offer competitively priced ground solutions, and services like FedEx SmartPost and UPS SurePost leverage USPS for final package delivery to residences buying online.</p>
+<p class="text-center" style="font-style: italic"><strong>If carriers are so similar now, how do I pick the best one for my business?</strong></p>
+<p>In my experience, online sellers are most concerned with price and reliability. Let’s take a look at how these 3 major carriers stack up on these and other important criteria.</p>
+<h2 style="color: #318a1e">United States Postal Service (USPS)</h2>
+<p>First, let’s remove the misconception that USPS is not appropriate for a business. Too many sellers still associate USPS with holiday cards, junk mail and bills. In reality, the USPS has improved all of its delivery and ecommerce services and is focused on winning this segment – starting with low prices on the lighter weight items most often ordered online. Let’s see how USPS stacks up.</p>
+<p><span style="color: #02587b"><strong>Price:</strong></span> USPS is the cheapest shipping solution for packages under 2 pounds. If the package is less than 13oz there is literally no comparison. (Most other carrier rates start from 1 lb. or 16 oz.) USPS offers a service called First Class Mail for shipping packages up to 13oz, <a href="http://shippingeasy.com/uspsdiscountedratetable/" target="_blank">starting at .93</a>, if you’re using an online shipping solution. Or if you head to your local Post Office, retail prices start at $2.32. USPS focuses on being the low-cost provider, and in most cases they succeed. Their Priority Mail service has improved its delivery times, provides delivery date estimates based on zone and further reduced their rates in late 2014. They also offer extremely competitive <a href="http://shippingeasy.com/uspsdiscountedratetable/" target="_blank">flat rate boxes and unique regional rate boxes</a> for heavier packages.</p>
+<p><span style="color: #02587b"><strong>Extra Fees:</strong></span> USPS doesn’t tack on the surcharges all too common with UPS and FedEx – namely for residential delivery and fuel surcharges. They also offer free package pickup and Saturday delivery at no extra charge. My advice is to make sure that you look at the “total cost to deliver” with all surcharges when comparing carriers. All too often sellers just look at the base cost.</p>
+<p><span style="color: #02587b"><strong>Reliability:</strong></span> This is USPS’s Achilles heel. Its reputation was tarnished long ago, and despite a vast improvements in the last 3 years, trust takes a long time to rebuild. After working with thousands of sellers since 2012, their improved point-to-point tracking seems to be winning over online sellers. On the other hand, USPS doesn’t always guarantee delivery time, but rather refunds postage in the event that a package doesn’t arrive on time. Many sellers look for more reassurance with items that absolutely must arrive overnight – and are not interested in a claims process. This might mean you’ll want to use a private carrier for time-sensitive packages.</p>
+<h2 style="color: #318a1e">Federal Express (FedEx)</h2>
+<p>FedEx has an excellent reputation and a brand name that just might impress your customers. You might want to consider this carrier for time-sensitive packages or high-value items where a trusted brand is crucial to your customers.</p>
+<p><span style="color: #02587b"><strong>Price:</strong></span> FedEx can be more expensive than UPS on their expedited services like overnight and 2-day shipping; however, they can be very competitive on rates when it comes to ground shipping, even when compared to USPS.</p>
+<p><span style="color: #02587b"><strong>Discounted Rates:</strong></span> While UPS rates have to be negotiated in person, FedEx has started to initiate discounted rates on some services using online specials. Access is as simple as signing up for an online account. It’s worth doing a Google search with “FedEx online specials” and other keyword variations to see what new offers are available.<br />
+Extra Fees: FedEx and UPS will tack on fees for things like residential delivery (costly for online sellers), fuel surcharges, Saturday delivery and package pickup unless you are a large shipper with daily pick up.</p>
+<p><span style="color: #02587b"><strong>Reliability:</strong></span> FedEx takes delivery time very seriously, and all but guarantee a package will arrive when they say it will, except in rare circumstances such as extreme weather and holidays.</p>
+<p><span style="color: #02587b"><strong>Tracking:</strong></span> Tracking individual packages with FedEx works very well. Numerous scans keep track of packages throughout their journey and useful information is available at every checkpoint.</p>
+<h2 style="color: #318a1e">United Parcel Service (UPS)</h2>
+<p>UPS actually delivers more packages ordered online than any other carrier. You can think of “brown” as the market leader, with USPS and FedEx competing fiercely for your business. In this case, competition is good for you and your bottom line!</p>
+<p><span style="color: #02587b"><strong>Price:</strong></span> General opinion is that UPS ground shipping is great for packages that weigh in at the 2lb+ mark. While this may be true, negotiated rates play a big role in determining what is ultimately cheaper. You will want to compare your negotiated rates – fully loaded with the applicable surcharges – to rates from the other carriers to determine what’s actually cheaper.</p>
+<p><span style="color: #02587b"><strong>Discounted Rates:</strong></span> It’s up to you to negotiate your UPS rates directly with an Account Manager based on your delivery volume. Use your network as a starting point to both leverage their advice and ballpark rates for various “net minimum” volumes. This will help you evaluate the offered rates. Make sure to get a clear explanation of all surcharges and then add these to establish a “total cost” if you’re planning to compare to other carriers. You want an &#8220;apples to apples&#8221; comparison; too often I see sellers look at the bare bones price instead of the fully loaded price. You can expect a nasty surprise at the end of the month on your invoice if you’re not careful.</p>
+<p><span style="color: #02587b"><strong>Extra Fees:</strong></span> UPS tacks on extra fees just like FedEx, and doesn’t have any free package pickup service that I know of.</p>
+<p><span style="color: #02587b"><strong>Delivery Reliability:</strong></span> Just like FedEx, UPS takes delivery reliability very seriously, rarely suffering delays (other than that rotten holiday back in 2013).</p>
+<p><span style="color: #02587b"><strong>Tracking:</strong></span> UPS has some of the best tracking for online sellers, with innovative features such as package update text messages available to customers.</p>
+<h2 style="color: #318a1e">Deciding on a Shipping Carrier</h2>
+<p>To pick the best carrier for your shipments, you want to have a good idea of your shipping profile. Ask yourself the following questions:</p>
+<ul style="padding-left: 30xp">
+<li>What does my average order weigh?</li>
+<li>What is the maximum and minimum weight of my orders?</li>
+<li>What sort of boxes or envelopes or poly mailers am I likely to use?</li>
+</ul>
+<p>Weight, dimensions and distance are what drive shipping cost for both you and the carrier. Once you have an idea of what you’ll be shipping and packaging, you’re ready to compare the rates, services and delivery options from each carrier. For example, if you ship lightweight apparel, you will find USPS First Class shipping hard to beat. When packages start to hit the 2 lb. mark, you will want to explore the ground services offered by all three carriers, and compare the fully loaded cost and average delivery times of each. Inexpensive items that don’t have to be shipped within a precise timeframe might be suited for FedEx and UPS’ low-cost shipping solutions SmartPost and SurePost.</p>
+<p>Many sellers mix and match shipping services depending on common order types. If you’re shipping less than 50 orders per month, you might want to start with USPS where the <a href="http://shippingeasy.com/usps-rates-by-plan/" target="_blank">rates are readily available</a> and you don’t need an account, invoicing or negotiations. As you grow, you’ll have the volume to make your negotiations more successful and your options plentiful with the private carriers!</p>
+<p>We’ve highlighted the main benefits of each shipping carrier in the chart below:</p>
+<p><img class="aligncenter size-full wp-image-19807" alt="tab" src="http://www.prestashop.com/blog/en/files/2015/03/majoruscamparison.jpg" width="759" height="538" /></p>
+<hr align="center" width="20%" />
+<p><img class="aligncenter size-full wp-image-19787" alt="shippingeasy" src="http://www.prestashop.com/blog/en/files/2015/03/shippingeasy.png" width="220" height="127" /></p>
+<p>Ready to start shipping products from your online store? Get started by installing ShippingEasy’s module directly from your back office, or downloading the <a href="http://addons.prestashop.com/en/shipping-logistics-delivery-prestashop-modules/19038-prestashippingeasy.html" target="_blank">ShippingEasy Module</a> from PrestaShop Addons.</p>
+<p>Through their service, you’ll get:</p>
+<ul style="padding-left: 30px">
+<li>46% Savings off USPS Rates</li>
+<li>Easy carrier integration with USPS, UPS and FedEx</li>
+<li>FREE starter plan for up to 50 shipments per month</li>
+<li>Exceptional customer support</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/comparing-3-major-shipping-carriers-ups-vs-fedex-vs-usps/">Comparing 3 Major Shipping Carriers &#8211; UPS vs. FedEx vs. USPS</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/comparing-3-major-shipping-carriers-ups-vs-fedex-vs-usps/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
