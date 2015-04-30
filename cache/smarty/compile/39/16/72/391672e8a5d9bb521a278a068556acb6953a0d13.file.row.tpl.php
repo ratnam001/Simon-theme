@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-04-29 16:12:16
+<?php /* Smarty version Smarty-3.1.19, created on 2015-04-30 22:01:01
          compiled from "/home1/lamppp/htdocs/Simon-theme/adminsimon/themes/default/template/helpers/kpi/row.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:105516883255409260b56501-40274947%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1661174005542359d99af23-77366278%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '105516883255409260b56501-40274947',
+  'nocache_hash' => '1661174005542359d99af23-77366278',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55409260b605a4_81692964',
+  'unifunc' => 'content_5542359d9a4db7_71450837',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55409260b605a4_81692964')) {function content_55409260b605a4_81692964($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5542359d9a4db7_71450837')) {function content_5542359d9a4db7_71450837($_smarty_tpl) {?>
 <div class="panel kpi-container">
 	<div class="row">
 		<div class="col-lg-2" style="float:right"><button class="close refresh" type="button" onclick="refresh_kpis();"><i class="process-icon-refresh" style="font-size:1em"></i></button></div>

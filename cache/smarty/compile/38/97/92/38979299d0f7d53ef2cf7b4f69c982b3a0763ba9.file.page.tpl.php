@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-04-29 16:12:16
+<?php /* Smarty version Smarty-3.1.19, created on 2015-04-30 22:00:56
          compiled from "/home1/lamppp/htdocs/Simon-theme/adminsimon/themes/default/template/controllers/modules/page.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:22535831655409260c1a726-87258064%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:40834991555423598c74439-89693202%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '22535831655409260c1a726-87258064',
+  'nocache_hash' => '40834991555423598c74439-89693202',
   'function' => 
   array (
   ),
@@ -34,9 +34,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55409260cc0e50_63045011',
+  'unifunc' => 'content_55423598d1ddd4_65366115',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55409260cc0e50_63045011')) {function content_55409260cc0e50_63045011($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55423598d1ddd4_65366115')) {function content_55423598d1ddd4_65366115($_smarty_tpl) {?>
 <?php if (!isset($_smarty_tpl->tpl_vars['logged_on_addons']->value)||!$_smarty_tpl->tpl_vars['logged_on_addons']->value) {?>
 <div class="alert bg-info">
 	<div class="row modules-addons-info">

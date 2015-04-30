@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-04-29 15:55:10
+<?php /* Smarty version Smarty-3.1.19, created on 2015-04-30 19:50:04
          compiled from "/home1/lamppp/htdocs/Simon-theme/themes/dragonsports/modules/blockmyaccountfooter/blockmyaccountfooter.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:114199710155408e5ee21ac0-96180121%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:499589419554216ecc14fe9-20031671%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '114199710155408e5ee21ac0-96180121',
+  'nocache_hash' => '499589419554216ecc14fe9-20031671',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_55408e5ee8b7c4_86212398',
+  'unifunc' => 'content_554216ecc7b512_66627536',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_55408e5ee8b7c4_86212398')) {function content_55408e5ee8b7c4_86212398($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_554216ecc7b512_66627536')) {function content_554216ecc7b512_66627536($_smarty_tpl) {?>
 
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">

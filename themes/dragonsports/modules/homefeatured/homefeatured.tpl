@@ -22,8 +22,9 @@
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 *}
+<h2>Promotions</h2>
 {if isset($products) && $products}
-	{include file="$tpl_dir./product-list.tpl" class='homefeatured tab-pane' id='homefeatured'}
+	{include file="$tpl_dir./product-list-home.tpl" class='homefeatured tab-pane' id='homefeatured'}
 {else}
 <ul id="homefeatured" class="homefeatured tab-pane">
 	<li class="alert alert-info">{l s='No featured products at this time.' mod='homefeatured'}</li>

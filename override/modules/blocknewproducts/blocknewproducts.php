@@ -33,6 +33,7 @@ class BlockNewProductsOverride extends BlockNewProducts
 	{
 		if (!$this->isCached('blocknewproducts_home.tpl', $this->getCacheId('blocknewproducts-home')))
 		{
+			BlockNewProducts::$cache_new_products = $this->getNewProducts();
 			$this->smarty->assign(array(
 				'new_products' => BlockNewProducts::$cache_new_products,
 				'mediumSize' => Image::getSize(ImageType::getFormatedName('medium')),
