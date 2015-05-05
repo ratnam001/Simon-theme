@@ -22,11 +22,16 @@
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 *}
-<h2>New Products</h2>
+<div class="home_title">
+<h1>New Products</h1>
+</div>
+<div class="newproducts">
 {if isset($new_products) && $new_products}
 	{include file="$tpl_dir./product-list-home.tpl" products=$new_products class='blocknewproducts tab-pane' id='blocknewproducts'}
 {else}
+
 <ul id="blocknewproducts" class="blocknewproducts tab-pane">
 	<li class="alert alert-info">{l s='No new products at this time.' mod='blocknewproducts'}</li>
 </ul>
+</div>
 {/if}

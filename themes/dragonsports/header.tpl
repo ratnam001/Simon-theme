@@ -68,7 +68,7 @@
 				<p>{l s='You cannot place a new order from your country.'}{if isset($geolocation_country) && $geolocation_country} <span class="bold">{$geolocation_country|escape:'html':'UTF-8'}</span>{/if}</p>
 			</div>
 		{/if}
-		<div id="page">
+		<div id="page" class="main_page_wrapper">
 			<div class="header-container">
 				<header id="header">
 					<div class="banner">

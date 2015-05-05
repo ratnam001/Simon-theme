@@ -38,7 +38,7 @@
 					</footer>
 				</div><!-- #footer -->
 			{/if}
-		</div><!-- #page -->
+            </div><!-- #page -->
 {/if}
 {include file="$tpl_dir./global.tpl"}
 	</body>
