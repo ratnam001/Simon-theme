@@ -7322,7 +7322,7 @@ font-weight: normal;
 .footer-container #footer #social_block ul li a:hover {
 color: #fff;
 }
-.footer-container #footer #social_block ul li.facebook a:before {
+/*.footer-container #footer #social_block ul li.facebook a:before {
 content: "\f09a";
 }
 .footer-container #footer #social_block ul li.twitter a:before {
@@ -7345,11 +7345,12 @@ content: "\f194";
 }
 .footer-container #footer #social_block ul li.instagram a:before {
 content: "\f16d";
-}
+}*/
 .footer-container #footer #social_block h4 {
 float: right;
 margin-bottom: 0;
-font-size: 21px;
+font-family: 'Conv_TrajanProRegular'; 
+font-size:18px;
 line-height: 25px;
 text-transform: none;
 padding: 0 10px 0 0;
@@ -8718,7 +8719,7 @@ font-style: normal;
 #mypresta_mib ul { float:left; width:100%;}
 #mypresta_mib li { float: left; margin: 0 2%; text-align: center; width:100px;}
 #mypresta_mib li img { max-width:100%;}
-.main_page_wrapper { float:left; width:100%;}
+.maincontainer { float:left; width:100%; background:#fff; padding:0 35px;}
 
 .home_title { float:left; width:100%; text-align:center; overflow:hidden;}
 .home_title h1 { font-family: 'Conv_TrajanProBold'; font-size:18px; color:#000; display: inline-block; position: relative; margin:0px; padding: 0 20px;}
@@ -8748,9 +8749,11 @@ font-style: normal;
 #footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+3) ul, #footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+3) h4 { padding-left:25%;}
 #footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+4) ul, #footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+4) h4 { padding-left:25%;}
 .footer-container #footer ul li a:hover img { opacity:.7;}
-
-
-
+.footer-container #footer #social_block ul li.facebook { display:none;}
+.footer-container #footer #social_block ul li.twitter a { background:url(../img/twitter.png) no-repeat left top; display:inline-block; height:36px; width:36px;}
+.footer-container #footer #social_block ul li.google-plus a { background:url(../img/googleplus.png) no-repeat left top; display:inline-block; height:36px; width:36px;}
+.footer-container #footer #social_block ul li.rss a { background:url(../img/rss.png) no-repeat left top; display:inline-block; height:36px; width:36px;}
+.maincontainer .SEslider.sample { padding:0!important;}
 
 
 

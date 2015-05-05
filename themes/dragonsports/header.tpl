@@ -99,8 +99,8 @@
 				</header>
 			</div>
 			<div class="columns-container">
-				<div class="maincontainer">
-					<div class="container">
+				<div class="container">
+					<div class="maincontainer">
 						{if isset($HOOK_TOP)}{$HOOK_TOP}{/if}
 						<div id="columns" class="container">
 							{if $page_name !='index' && $page_name !='pagenotfound'}
