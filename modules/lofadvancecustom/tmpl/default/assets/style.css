@@ -15,8 +15,8 @@
 }
 
 #lofadvafooterfooter{
-	/*margin-top: 40px;*/
-	margin-bottom: 40px;
+	/*margin-top: 40px;
+	margin-bottom: 40px;*/
 }
 #lofadvafooterfooter #lofadva-pos-1 li {
 	list-style:none;
@@ -78,13 +78,13 @@
 }
 
 #lofadvafooterfooter #lofadva-pos-2{
-	background: none repeat scroll 0 0 #FFFFFF;
+/*	background: none repeat scroll 0 0 #FFFFFF;
     border: 1px solid #D2D2D2;
     border-radius: 0 0 4px 4px;
     clear: both;
     line-height: 20px;
     overflow: hidden;
-    padding: 20px 0 20px 0;
+    padding: 20px 0 20px 0;*/
 }
 #lofadvafooterfooter #lofadva-pos-2 li {
 	list-style:none;
@@ -97,26 +97,23 @@
 	background:none;
 }
 #lofadvafooterfooter #lofadva-pos-2 li.link a{
-	background: url("images/bullet-li.png") no-repeat scroll 0 7px transparent;
-    color: #656565;
-    padding-left: 12px;
-	font: 14px 'vni-helve-condense' !important;
+    color: #fff;
 	text-decoration:none;
+	font-size:11px;
 }
 #lofadvafooterfooter #lofadva-pos-2 li.link a:hover{
-	background-position: 0 -25px;
-    color: #4DA49D;
-    text-decoration: none;
+    color: #33a6ff;
+    text-decoration: underline;
 }
 #lofadvafooterfooter #lofadva-pos-2 li .custom-content{
 	padding:0 5px 0 15px;
 }
 #lofadvafooterfooter #lofadva-pos-2 li.link{
-	padding-left:10px;
+	line-height:normal;
 }
 #lofadvafooterfooter ul.lof-items li {
 	padding:0px;
 }
 #footer p{
-    color: #595959;
+    color: #33a6ff;
 }

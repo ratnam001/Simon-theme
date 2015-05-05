@@ -34,7 +34,7 @@
 				<!-- Footer -->
 				<div class="footer-container">
 					<footer id="footer"  class="container">
-						<div class="row">{$HOOK_FOOTER}</div>
+						<div class="footer_pad">{$HOOK_FOOTER}</div>
 					</footer>
 				</div><!-- #footer -->
 			{/if}

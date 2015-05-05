@@ -7150,16 +7150,24 @@ display: none;
 width: 20px;
 }
 .footer-container {
-background-color: #333;
+/*background-color: #333;*/
 }
 
 @media (min-width: 768px) {
-.footer-container {
+/*.footer-container {
 background: url(../img/footer-bg.png) repeat-x #333;
-}
+}*/
 }
 .footer-container .container {
-padding-bottom: 100px;
+padding-bottom: 0px;
+background: #010101; /* Old browsers */
+background: -moz-linear-gradient(top,  #010101 0%, #7f7f7f 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#010101), color-stop(100%,#7f7f7f)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #010101 0%,#7f7f7f 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #010101 0%,#7f7f7f 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #010101 0%,#7f7f7f 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #010101 0%,#7f7f7f 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#010101', endColorstr='#7f7f7f',GradientType=0 ); /* IE6-9 */
 }
 .footer-container #footer {
 color: #777777;
@@ -7171,7 +7179,7 @@ position: relative;
 position: static;
 }
 .footer-container #footer .footer-block {
-margin-top: 45px;
+/*margin-top: 45px;*/
 }
 
 @media (max-width: 767px) {
@@ -7180,10 +7188,10 @@ margin-top: 20px;
 }
 }
 .footer-container #footer a {
-color: #777777;
+color: #fff;
 }
 .footer-container #footer a:hover {
-color: #fff;
+ color: #33a6ff; text-decoration: underline;
 }
 .footer-container #footer h4 {
 font: 600 18px/22px "Open Sans", sans-serif;
@@ -7214,11 +7222,9 @@ content: "\f056";
 color: #fff;
 }
 .footer-container #footer ul li {
-padding-bottom: 8px;
+/*padding-bottom: 8px;*/
 }
 .footer-container #footer ul li a {
-font-weight: bold;
-text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.4);
 }
 .footer-container #footer #block_contact_infos {
 border-left: 1px solid #515151;
@@ -8708,12 +8714,11 @@ font-style: normal;
 
 }
 
-
 #mypresta_mib h2 { font-family: 'Conv_TrajanProBold'; text-align:center; color:#000; font-size: 18px; margin: 4% 0 2% 0;}
 #mypresta_mib ul { float:left; width:100%;}
 #mypresta_mib li { float: left; margin: 0 2%; text-align: center; width:100px;}
 #mypresta_mib li img { max-width:100%;}
-.main_page_wrapper { float:left; width:100%; background:#fff;}
+.main_page_wrapper { float:left; width:100%;}
 
 .home_title { float:left; width:100%; text-align:center; overflow:hidden;}
 .home_title h1 { font-family: 'Conv_TrajanProBold'; font-size:18px; color:#000; display: inline-block; position: relative; margin:0px; padding: 0 20px;}
@@ -8722,6 +8727,45 @@ font-style: normal;
 .home_title h1:after { left: 103%;}
 .newproducts { float:left; width:100%; margin-top:30px;}
 #index ul.product_list.tab-pane > li:nth-child(5n+6) { clear:left;}
+#footer .lofadvafooter #lofadva-pos-2 .lof-position-wrap section { text-align:center;}
+#footer .lofadvafooter .lof-position-wrap section li { padding:0px;}
+#footer .lofadvafooter .lof-position-wrap section li p { margin:0px;}
+#footer .lofadvafooter .lof-position-wrap section h3, #footer .lofadvafooter .lof-position-wrap section h4 { font-size:18px; color:#fff; font-variant: small-caps; font-family: 'Conv_TrajanProBold'; margin:10px 0 12px 0px;}
+#footer .lofadvafooter .lof-position-wrap section h3 a { color:#fff; } 
+#footer .lofadvafooter #lofadva-pos-2 { border-bottom:1px solid #666; margin-bottom:15px; padding-bottom:10px;}
+#footer .lofadvafooter #lofadva-pos-3 .contact_info_box li { float:left; width:100%; padding-bottom:3px;}
+#footer .lofadvafooter .contact_info_box li a { color:#fff; padding-left:10px;}
+#footer .lofadvafooter .contact_info_box li a:hover { color: #33a6ff; text-decoration: underline;}
+#footer .lofadvafooter .contact_info_box li img { max-width:100%;}
+#footer .footer_pad { float:left; width:100%; padding:10px 25px;}
+#footer .lofadvafooter #lofadva-pos-2 .lof-position-wrap, #footer .lofadvafooter #lofadva-pos-3 .lof-position-wrap { width:85%; margin:auto;}
+#htmlcontent_footer { float:left; width:100%; background:#000; }
+#htmlcontent_footer ul li { font-family: 'Conv_TrajanProBold'; font-size:13px; color:#fff;}
+#htmlcontent_footer ul li i { display:none;}
+#footer .lofadvafooter #lofadva-pos-3 .col-xs-12.col-md-3.col-sm-3.footer-block { padding: 0;}
+#footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+1) ul.toggle-footer { padding-left:16%;}
+#footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+2) ul, #footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+2) h4 { padding-left:16%;}
+#footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+3) ul, #footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+3) h4 { padding-left:25%;}
+#footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+4) ul, #footer .lofadvafooter #lofadva-pos-3 section:nth-child(4n+4) h4 { padding-left:25%;}
+.footer-container #footer ul li a:hover img { opacity:.7;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
