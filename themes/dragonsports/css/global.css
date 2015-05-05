@@ -7347,7 +7347,7 @@ content: "\f194";
 content: "\f16d";
 }*/
 .footer-container #footer #social_block h4 {
-float: right;
+float: left;
 margin-bottom: 0;
 font-family: 'Conv_TrajanProRegular'; 
 font-size:18px;
@@ -8754,7 +8754,6 @@ font-style: normal;
 .footer-container #footer #social_block ul li.google-plus a { background:url(../img/googleplus.png) no-repeat left top; display:inline-block; height:36px; width:36px;}
 .footer-container #footer #social_block ul li.rss a { background:url(../img/rss.png) no-repeat left top; display:inline-block; height:36px; width:36px;}
 .maincontainer .SEslider.sample { padding:0!important;}
-
 
 
 
