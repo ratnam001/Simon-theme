@@ -29,6 +29,8 @@
 					{/if}
 					</div><!-- .row -->
 				</div><!-- #columns -->
+				</div><!-- #container -->
+				</div><!-- #maincontainer -->
 			</div><!-- .columns-container -->
 			{if isset($HOOK_FOOTER)}
 				<!-- Footer -->
